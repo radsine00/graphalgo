@@ -1,1 +1,1 @@
-# graphalgorithms
+# graphalgo
