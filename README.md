@@ -1,2 +1,0 @@
-# graphalgorithms
-Graph Algorithms
